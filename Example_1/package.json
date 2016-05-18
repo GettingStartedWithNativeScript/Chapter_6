@@ -3,6 +3,6 @@
 		"id": "com.mastertechapps.platformer"
 	},
 	"dependencies": {
-		"tns-core-modules": "1.5.0"
+		"tns-core-modules": "latest"
 	}
 }
